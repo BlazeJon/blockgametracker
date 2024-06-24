@@ -19,6 +19,8 @@ java:
     address: "play.lemoncloud.org"
   - name: "Complex Gaming"
     address: "hub.mc-complex.com"
+  - name: "Blaze Gaming"
+    address: "play.mc-blaze.com"
   - name: "AkumaMC"
     address: "akumamc.net"
   - name: "Origin Realms"
